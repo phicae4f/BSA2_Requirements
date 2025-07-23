@@ -191,7 +191,7 @@ A part of a table identifying the roles, their actions and problems using Task 1
 1. Develop a context diagram.
 2. Indicate in the diagram the stakeholders, stakeholder actions and control actions directed to or received from the system.
 3. Indicate in the diagram the third-party systems and the data flows that the system uses to interact with them.
-4. Place the diagram in the turn-in file ex01\_<product prefix>context.xxx (xxx — is an extension).
+4. Place the diagram in the turn-in file ex01\_<product prefix>\_context.xxx (xxx — is an extension).
 
 **Recommendations for tasks:**
 
