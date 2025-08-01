@@ -28,7 +28,7 @@
 
 ## Chapter I <div id="chapter-i"></div>
 
-![](misc/images/Illustration_02.jpg)
+![Illustration_02.jpg](misc/images/Illustration_02.jpg)
 
 ### Preamble <div id="11"></div>
 Требование — это пригодное для практического использования представление потребности или решения. В этом проекте ты узнаешь о классификации требований, которые с разных сторон описывают систему. И о том, как и почему требования связаны друг с другом. А также научишься строить контекстную диаграмму. 
@@ -83,7 +83,7 @@
 
 *Рисунок 1. Взаимосвязи и уровни требований*
 
-![](misc/images/img1.png)
+![img1.png](misc/images/img1.png)
 
 ### 2. Модели as is и to be <div id="32"></div>
 
@@ -130,7 +130,7 @@
 Пример контекстной диаграммы по задаче 1 приведен на рис. 2.
 
 *Рисунок 2.*
-![](misc/images/img2.png)
+![img1.png](misc/images/img2.png)
 
 ## Chapter IV <div id="chapter-iv"></div>
 
@@ -192,7 +192,7 @@
 
 Пример контекстной диаграммы задачи 1 приведен на рисунке.
 
-![](misc/images/img3.png)
+![img1.png](misc/images/img3.png)
 
 ### Exercise 02 — Solving the problems of stakeholders (Разрешение проблем стейкхолдеров) <div id="53"></div>
 **Для каждой задачи:**

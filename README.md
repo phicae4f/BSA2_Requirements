@@ -28,7 +28,7 @@ Today you will learn about software requirements, their types, levels, relations
 
 ## Chapter I <div id="chapter-i"></div>
 
-![](misc/images/Illustration_02.jpg)
+![Illustration_02.jpg](misc/images/Illustration_02.jpg)
 
 ### Preamble <div id="11"></div>
 
@@ -85,7 +85,7 @@ Requirements of different types for a software product are always interrelated, 
 
 *Figure 1. Relationships and levels of requirements*
 
-![](misc/images/img1_eng.png)
+![img1_eng.png](misc/images/img1_eng.png)
 
 ### 2. "As-Is" and "To-Be" Models <div id="32"></div>
 
@@ -133,7 +133,7 @@ The diagram consists of the following parts:
 An example of a context diagram for task 1 is shown in Fig. 2.
 
 *Figure 2.*
-![](misc/images/img2_eng.png)
+![img2_eng.png](misc/images/img2_eng.png)
 
 ## Chapter IV <div id="chapter-iv"></div>
 
@@ -197,7 +197,7 @@ A part of a table identifying the roles, their actions and problems using Task 1
 
 An example of the context diagram of Task 1 is shown in the figure.
 
-![](misc/images/img3_eng.png)
+![img3_eng.png](misc/images/img3_eng.png)
 
 ### Exercise 02 — Solving the Problems of Stakeholders <div id="53"></div>
 
