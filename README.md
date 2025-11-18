@@ -165,7 +165,7 @@ The first step was to collect orders from stores and caterers in any way possibl
 2. Write out all the intended roles of stakeholders and their actions from the task description.
 3. Specify the problems that the stakeholder roles face in the current state (As-Is).
 4. Specify in the table not only the roles of stakeholders directly interacting with the system, but also the roles of other stakeholders. Update the stakeholder directory of the previous project. Load the updated directory into src.
-5. Indicate your answers in the turn-in file ex00\_<product prefix>\_asis.docx.
+5. Indicate your answers in the turn-in file `ex00_<product prefix>_asis.xlsx`.
 
 **Recommendations for the task:**
 
@@ -173,7 +173,7 @@ Check the indication of all problems covered in the project Stakeholders, Exerci
 
 A part of a table identifying the roles, their actions and problems using Task 1 as an example. 
 
-| Identifier | Stakeholder | Action                             | as   is        |           | Problems                                                     |
+| Identifier | Role | Action                             | as   is        |           | Problems                                                     |
 | ---------- | ----------- | ---------------------------------- | -------------- | --------- | ------------------------------------------------------------ |
 |            |             |                                    | over the phone | in person |                                                              |
 | st00200    | Client      | Making/rescheduling an appointment | +              | +         | It is difficult for the client to make an appointment (to call) |
@@ -191,7 +191,7 @@ A part of a table identifying the roles, their actions and problems using Task 1
 1. Develop a context diagram.
 2. Indicate in the diagram the stakeholders, stakeholder actions and control actions directed to or received from the system.
 3. Indicate in the diagram the third-party systems and the data flows that the system uses to interact with them.
-4. Place the diagram in the turn-in file ex01\_<product prefix>\_context.xxx (xxx — is an extension).
+4. Place the diagram in the turn-in file `ex01_<product prefix>_context.xxx` (xxx — is an extension).
 
 **Recommendations for tasks:**
 
@@ -206,7 +206,7 @@ An example of the context diagram of Task 1 is shown in the figure.
 1. Add user actions of the system To-Be in the table created in the **Exercise 00 — Roles and Their Actions As-Is**, based on the context diagram.
 2. Refine the diagram or source table if necessary.
 3. Write a To-Be condition for each problem — whether the solution helps to resolve the problem when applying the system.
-4. Indicate your answers in turn-in file ex02\_<product prefix>\_tobe.xlsx.
+4. Indicate your answers in turn-in file `ex02_<product prefix>_tobe.xlsx`.
 
 **Recommendations for tasks:**
 
@@ -230,7 +230,7 @@ Example of part of the finalized table for task 1.
 1. Create a table of input-output data flows based on the context diagram.
 2. In case of differences in the table refine the context diagram and correspondence table.
 3. If there are deviations, make a note to the table and explain.
-4. Indicate your answers in turn-in file ex03\_<product prefix>\_flows.xlsx.
+4. Indicate your answers in turn-in file `ex03_<product prefix>_streams.xlsx`.
 
 ### Exercise 04 — Adding Artifacts <div id="55"></div>
 
