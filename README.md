@@ -240,3 +240,4 @@ Example of part of the finalized table for task 1.
 2. Find descriptions of concepts and terms and put them in a glossary.
 3. Add new identified stakeholders to the stakeholder directory.
 4. Specify attributes of new stakeholders.
+5. Indicate your answers in turn-in file `ex04_<product prefix>_glossary.xlsx`.
